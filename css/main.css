@@ -357,7 +357,8 @@
   -----------------------------------------*/
 
   .hero {
-    background-image: url('../images/hero-bg.jpg');
+    /* background-image: url('../images/hero-bg.jpg'); */
+    background-color: #1b1b42;
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
