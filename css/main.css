@@ -1,10 +1,4 @@
-/*
 
-Tooplate 2119 Gymso Fitness
-
-https://www.tooplate.com/view/2119-gymso-fitness
-
-*/
 
   @font-face {
       font-family: 'Plain';
@@ -160,7 +154,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   .custom-btn.bg-color:focus {
     background: var(--white-color);
     border-color: transparent;
-    color: var(--primary-color);
+    color: rgb(6, 6, 111);
   }
 
   .bordered {
@@ -169,7 +163,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   }
 
   .bg-color {
-    background: var(--primary-color);
+    background: rgb(6, 6, 111);
     color: var(--white-color);
   }
 
